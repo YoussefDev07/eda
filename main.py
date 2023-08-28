@@ -6,8 +6,7 @@ import seaborn as sns
 
 # get data path
 
-# data = input(Fore.GREEN + "Enter Data File Path: " + Fore.LIGHTGREEN_EX)
-data = "data/International_Report_Passengers.csv"
+data = input(Fore.GREEN + "Enter Data File Path: " + Fore.LIGHTGREEN_EX)
 
 # check and load data
 
